@@ -1,0 +1,26 @@
+site_name: Website for test functions
+nav:
+  - Home: index.md
+  - Tutorial: 
+    - Thermo Stat Tutorial: tutorial_thermo.md
+  - How-to guide: 
+    - Thermo Stat How-to: how_to_thermo.md
+  - API Reference:
+    - Adder Function: adder.md
+    - Thermo Stat: thermo_status.md
+    - Have Digits: have_digits.md
+    - Area of Rectangle: area.md
+    - Perimeter of Rectangle: perimeter.md
+  - Explanation: 
+    - Thermo Stat Explanation: explanation_thermo.md
+theme:
+  name: material
+  palette:
+    scheme: slate #I got the scheme with the help of chatgpt, wasn't sure how to make dark mode from the documentation
+    primary: pink
+    accent: default
+
+
+plugins: 
+- search
+- mkdocstrings
