@@ -30,5 +30,4 @@ jobs:
 
       - name: Deploy
         run: |
-          export PYTHONPATH=$PYTHONPATH:$(pwd)
           mkdocs gh-deploy

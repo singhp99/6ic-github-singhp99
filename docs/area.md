@@ -1,1 +1,1 @@
-::: functions.area_of_rectangle
+::: example_functions.area_of_rectangle
