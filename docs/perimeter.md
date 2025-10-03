@@ -1,1 +1,1 @@
-::: functions.perimeter_of_rectangle
+::: example_functions.perimeter_of_rectangle

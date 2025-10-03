@@ -1,1 +1,1 @@
-::: functions.my_adder
+::: example_functions.my_adder
